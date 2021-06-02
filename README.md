@@ -25,3 +25,7 @@ Beginner : https://leetcode.com/discuss/general-discussion/655708/graph-problems
 ## CheatSheets
  https://www.bigocheatsheet.com/
   
+
+## Topics/ Algorithms
+- [Floyd's Algorithm - Hare and Tortoise](https://leetcode.com/problems/find-the-duplicate-number/solution/)
+- [N Queens Backtracking](https://www.youtube.com/watch?v=xFv_Hl4B83A&list=PLTZpfJ32bVrkyWhMM_0iKMvEOYcZObn33&index=4[https://www.youtube.com/watch?v=xFv_Hl4B83A&list=PLTZpfJ32bVrkyWhMM_0iKMvEOYcZObn33&index=4) 
