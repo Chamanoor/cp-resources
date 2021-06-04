@@ -14,7 +14,9 @@
 ### Dynamic Programming
 Minimum no of Edits: https://web.stanford.edu/class/cs124/lec/med.pdf
 
-Dp For beginners : https://leetcode.com/discuss/general-discussion/662866/dp-for-beginners-problems-patterns-sample-solutions
+Dp For beginners : https://leetcode.com/discuss/general-discussion/662866/dp-for-beginners-problems-patterns-sample-solutions 
+
+[DP Patterns (Leetcode) (Highly Recommended)](https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns#Minimum-(Maximum)-Path-to-Reach-a-Target)
 
 ### Graphs
 Beginner : https://leetcode.com/discuss/general-discussion/655708/graph-problems-for-beginners-practice-problems-and-sample-solutions
